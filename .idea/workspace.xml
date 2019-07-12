@@ -1,0 +1,746 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="72e297ee-3df0-4ddc-aad8-39554c0aab8e" name="Default Changelist" comment="">
+ HEAD
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PY/deMo.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY/deMo.py" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/PY/Local/selenium/demo5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY/Local/selenium/demo6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webframework/common/base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/My_Py.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/My_Py.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webframework/case/login/test_login02.py" beforeDir="false" afterPath="$PROJECT_DIR$/webframework/case/login/test_login02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webframework/page/loginPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/webframework/page/loginPage.py" afterDir="false" />
+>>>>>>> f2d637e8a2d0820b5d8de508616364f12dfb92dc
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/My_Py$Unittests_in_test_login_py.coverage" NAME="Unittests in test_login.py Coverage Results" MODIFIED="1542951368458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/framework/case/login" />
+    <SUITE FILE_PATH="coverage/My_Py$chandao.coverage" NAME="chandao Coverage Results" MODIFIED="1542959033088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/framework/lib" />
+    <SUITE FILE_PATH="coverage/My_Py$Unittests_for_test_login02_ChanDAOLogin_test_loginsuccess.coverage" NAME="Unittests for test_login02.ChanDAOLogin.test_loginsuccess Coverage Results" MODIFIED="1543074874306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webframework/case/login" />
+    <SUITE FILE_PATH="coverage/My_Py$chandao_login.coverage" NAME="chandao_login Coverage Results" MODIFIED="1542941661707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/framework" />
+    <SUITE FILE_PATH="coverage/My_Py$Unittests_in_test_login02_py.coverage" NAME="Unittests in test_login02.py Coverage Results" MODIFIED="1543063933654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webframework/case/login" />
+    <SUITE FILE_PATH="coverage/My_Py$Unittests_for_test_login_TestLogin_test_09.coverage" NAME="Unittests for test_login.TestLogin.test_09 Coverage Results" MODIFIED="1542951034677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/framework/case/login" />
+    <SUITE FILE_PATH="coverage/My_Py$Unittests_for_test_login_TestLogin.coverage" NAME="Unittests for test_login.TestLogin Coverage Results" MODIFIED="1542963992663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/framework/case/login" />
+ HEAD
+    <SUITE FILE_PATH="coverage/My_Py$deMo.coverage" NAME="deMo Coverage Results" MODIFIED="1543198023339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PY" />
+=======
+    <SUITE FILE_PATH="coverage/My_Py$demo.coverage" NAME="demo Coverage Results" MODIFIED="1542951258027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/framework" />
+    <SUITE FILE_PATH="coverage/My_Py$loginPage.coverage" NAME="loginPage Coverage Results" MODIFIED="1543074860057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webframework/page" />
+    <SUITE FILE_PATH="coverage/My_Py$Unittests_for_test_login_TestLogin_test_10.coverage" NAME="Unittests for test_login.TestLogin.test_10 Coverage Results" MODIFIED="1542951138613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/framework/case/login" />
+    <SUITE FILE_PATH="coverage/My_Py$Unittests_for_test_login_TestLogin_test_04.coverage" NAME="Unittests for test_login.TestLogin.test_04 Coverage Results" MODIFIED="1542944619502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/framework/case/login" />
+    <SUITE FILE_PATH="coverage/My_Py$mysql_cmd.coverage" NAME="mysql_cmd Coverage Results" MODIFIED="1542965860219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/framework/common_i" />
+    <SUITE FILE_PATH="coverage/My_Py$Unittests_in_test_chandao_py.coverage" NAME="Unittests in test_chandao.py Coverage Results" MODIFIED="1542942199746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/framework/case/login" />
+>>>>>>> f2d637e8a2d0820b5d8de508616364f12dfb92dc
+    <SUITE FILE_PATH="coverage/My_Py$run_all.coverage" NAME="run_all Coverage Results" MODIFIED="1542852900270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webframework" />
+    <SUITE FILE_PATH="coverage/My_Py$Unittests_for_test_login02_ChanDAOLogin.coverage" NAME="Unittests for test_login02.ChanDAOLogin Coverage Results" MODIFIED="1543147146109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webframework/case/login" />
+    <SUITE FILE_PATH="coverage/My_Py$demo5.coverage" NAME="demo5 Coverage Results" MODIFIED="1543070758112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PY/Local/selenium" />
+    <SUITE FILE_PATH="coverage/My_Py$Unittests_for_test_login_TestLogin_test_06.coverage" NAME="Unittests for test_login.TestLogin.test_06 Coverage Results" MODIFIED="1542951010888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/framework/case/login" />
+    <SUITE FILE_PATH="coverage/My_Py$Unittests_in_test_changPasswd_py.coverage" NAME="Unittests in test_changPasswd.py Coverage Results" MODIFIED="1542967104279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/framework/case/login" />
+    <SUITE FILE_PATH="coverage/My_Py$demo1.coverage" NAME="demo1 Coverage Results" MODIFIED="1542871583072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STU_UI/doing" />
+    <SUITE FILE_PATH="coverage/My_Py$Unittests_for_test_changPasswd_TestChangePasswd_test_02.coverage" NAME="Unittests for test_changPasswd.TestChangePasswd.test_02 Coverage Results" MODIFIED="1542967072304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/framework/case/login" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="2112632541">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.35" value="1" />
+          <entry key="project.open.time.44" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="md" value="1" />
+          <entry key="py" value="25" />
+          <entry key="pyi" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Markdown" value="1" />
+          <entry key="Python" value="25" />
+          <entry key="PythonStub" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="md" value="55" />
+          <entry key="py" value="4373" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Markdown" value="55" />
+          <entry key="Python" value="4373" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="loginPage.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webframework/page/loginPage.py">
+          <provider selected="true" editor-type-id="text-editor">
+ HEAD
+            <state relative-caret-position="266">
+              <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+=======
+            <state relative-caret-position="306">
+              <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+>>>>>>> f2d637e8a2d0820b5d8de508616364f12dfb92dc
+              <folding>
+                <element signature="e#60#103#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_login.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webframework/case/login/test_login.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="test_login02.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webframework/case/login/test_login02.py">
+          <provider selected="true" editor-type-id="text-editor">
+ HEAD
+            <state relative-caret-position="760">
+              <caret line="41" column="19" selection-start-line="41" selection-start-column="19" selection-end-line="41" selection-end-column="19" />
+=======
+            <state relative-caret-position="296">
+              <caret line="58" column="26" lean-forward="true" selection-start-line="58" selection-start-column="26" selection-end-line="58" selection-end-column="26" />
+>>>>>>> f2d637e8a2d0820b5d8de508616364f12dfb92dc
+              <folding>
+                <element signature="e#134#183#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+ HEAD
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webframework/page/loginPage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="21" column="16" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PY/deMo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="220" column="14" lean-forward="true" selection-start-line="220" selection-start-column="14" selection-end-line="220" selection-end-column="14" />
+=======
+      <file leaf-file-name="demo5.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PY/Local/selenium/demo5.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="15" column="26" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="26" />
+              <folding>
+                <element signature="e#83#138#0" expanded="true" />
+              </folding>
+>>>>>>> f2d637e8a2d0820b5d8de508616364f12dfb92dc
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/webframework/common/base.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+              <folding>
+                <element signature="e#60#90#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="demo6.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PY/Local/selenium/demo6.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="case.py" pinned="false" current-in-tab="false">
+        <entry file="file://D:/python36/Lib/unittest/case.py">
+          <provider selected="true" editor-type-id="text-editor">
+ HEAD
+            <state relative-caret-position="12616">
+              <caret line="677" selection-start-line="677" selection-end-line="677" />
+=======
+            <state relative-caret-position="864">
+              <caret line="61" selection-start-line="61" selection-end-line="61" />
+>>>>>>> f2d637e8a2d0820b5d8de508616364f12dfb92dc
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>参数</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/framework/lib/chandao.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/webframework/page/loginPage.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/STU_UI/day01/demo1.py" />
+        <option value="$PROJECT_DIR$/STU_UI/doing/demo1.py" />
+        <option value="$PROJECT_DIR$/framework/chandao_login.py" />
+        <option value="$PROJECT_DIR$/framework/case/login/test_chandao.py" />
+        <option value="$PROJECT_DIR$/framework/demo.py" />
+        <option value="$PROJECT_DIR$/framework/case/login/test_login.py" />
+        <option value="$PROJECT_DIR$/framework/lib/chandao.py" />
+        <option value="$PROJECT_DIR$/webframework/run_all.py" />
+        <option value="$PROJECT_DIR$/framework/common_i/mysql_cmd.py" />
+        <option value="$PROJECT_DIR$/framework/common_i/oracle_cmd.py" />
+        <option value="$PROJECT_DIR$/yuquan_py/requests_demo01/requests_toolbelt上传多个文件案例.py" />
+        <option value="$PROJECT_DIR$/framework/common_i/sendEmail_until.py" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/framework/case/login/test_changPasswd.py" />
+ HEAD
+        <option value="$PROJECT_DIR$/PY/deMo.py" />
+=======
+        <option value="$PROJECT_DIR$/webframework/page/loginPage.py" />
+        <option value="$PROJECT_DIR$/webframework/case/login/test_login02.py" />
+        <option value="$PROJECT_DIR$/PY/Local/selenium/demo5.py" />
+        <option value="$PROJECT_DIR$/PY/Local/selenium/demo6.py" />
+        <option value="$PROJECT_DIR$/webframework/common/base.py" />
+>>>>>>> f2d637e8a2d0820b5d8de508616364f12dfb92dc
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="y" value="20" />
+    <option name="width" value="1435" />
+    <option name="height" value="805" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="My_Py" type="b2602c69:ProjectViewProjectNode" />
+              <item name="My_Py" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="My_Py" type="b2602c69:ProjectViewProjectNode" />
+              <item name="My_Py" type="462c0819:PsiDirectoryNode" />
+              <item name="PY" type="462c0819:PsiDirectoryNode" />
+            </path>
+ HEAD
+=======
+            <path>
+              <item name="My_Py" type="b2602c69:ProjectViewProjectNode" />
+              <item name="My_Py" type="462c0819:PsiDirectoryNode" />
+              <item name="PY" type="462c0819:PsiDirectoryNode" />
+              <item name="Local" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="My_Py" type="b2602c69:ProjectViewProjectNode" />
+              <item name="My_Py" type="462c0819:PsiDirectoryNode" />
+              <item name="PY" type="462c0819:PsiDirectoryNode" />
+              <item name="Local" type="462c0819:PsiDirectoryNode" />
+              <item name="selenium" type="462c0819:PsiDirectoryNode" />
+            </path>
+>>>>>>> f2d637e8a2d0820b5d8de508616364f12dfb92dc
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\documents\My_Py\framework\lib" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+ HEAD
+  <component name="RunManager" selected="Python.deMo">
+    <configuration name="deMo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+  <component name="RunManager" selected="Python tests.Unittests for test_login02.ChanDAOLogin">
+    <configuration name="demo5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> f2d637e8a2d0820b5d8de508616364f12dfb92dc
+      <module name="My_Py" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+ HEAD
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY" />
+=======
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY/Local/selenium" />
+>>>>>>> f2d637e8a2d0820b5d8de508616364f12dfb92dc
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+ HEAD
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY/deMo.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY/Local/selenium/demo5.py" />
+>>>>>>> f2d637e8a2d0820b5d8de508616364f12dfb92dc
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="loginPage" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="My_Py" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/webframework/page" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/webframework/page/loginPage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Unittests for test_login02.ChanDAOLogin" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="My_Py" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/webframework/case/login" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_login02.ChanDAOLogin&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="Unittests for test_login02.ChanDAOLogin.test_loginsuccess" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="My_Py" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/webframework/case/login" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_login02.ChanDAOLogin.test_loginsuccess&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="Unittests in test_login02.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="My_Py" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/webframework/case/login" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/webframework/case/login/test_login02.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <list>
+ HEAD
+      <item itemvalue="Python tests.Unittests in test_changPasswd.py" />
+      <item itemvalue="Python tests.Unittests for test_changPasswd.TestChangePasswd.test_02" />
+      <item itemvalue="Python tests.Unittests for test_login.TestLogin" />
+      <item itemvalue="Python.mysql_cmd" />
+      <item itemvalue="Python.deMo" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.deMo" />
+        <item itemvalue="Python tests.Unittests in test_changPasswd.py" />
+        <item itemvalue="Python tests.Unittests for test_changPasswd.TestChangePasswd.test_02" />
+        <item itemvalue="Python.mysql_cmd" />
+        <item itemvalue="Python tests.Unittests for test_login.TestLogin" />
+=======
+      <item itemvalue="Python.loginPage" />
+      <item itemvalue="Python.demo5" />
+      <item itemvalue="Python tests.Unittests for test_login02.ChanDAOLogin" />
+      <item itemvalue="Python tests.Unittests in test_login02.py" />
+      <item itemvalue="Python tests.Unittests for test_login02.ChanDAOLogin.test_loginsuccess" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests for test_login02.ChanDAOLogin" />
+        <item itemvalue="Python tests.Unittests for test_login02.ChanDAOLogin.test_loginsuccess" />
+        <item itemvalue="Python.loginPage" />
+        <item itemvalue="Python.demo5" />
+        <item itemvalue="Python tests.Unittests in test_login02.py" />
+>>>>>>> f2d637e8a2d0820b5d8de508616364f12dfb92dc
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72e297ee-3df0-4ddc-aad8-39554c0aab8e" name="Default Changelist" comment="" />
+      <created>1542852171158</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542852171158</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_test_login02_py - 2018.11.24 at 20h 51m 39s.xml">
+      <configuration name="Unittests in test_login02.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_login02_py - 2018.11.24 at 20h 53m 10s.xml">
+      <configuration name="Unittests in test_login02.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_login02_ChanDAOLogin - 2018.11.24 at 21h 46m 04s.xml">
+      <configuration name="Unittests for test_login02.ChanDAOLogin" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_login02_ChanDAOLogin - 2018.11.24 at 23h 23m 41s.xml">
+      <configuration name="Unittests for test_login02.ChanDAOLogin" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_login02_ChanDAOLogin - 2018.11.24 at 23h 38m 35s.xml">
+      <configuration name="Unittests for test_login02.ChanDAOLogin" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_login02_ChanDAOLogin - 2018.11.24 at 23h 39m 17s.xml">
+      <configuration name="Unittests for test_login02.ChanDAOLogin" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_login02_ChanDAOLogin - 2018.11.24 at 23h 42m 00s.xml">
+      <configuration name="Unittests for test_login02.ChanDAOLogin" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_login02_ChanDAOLogin - 2018.11.24 at 23h 43m 18s.xml">
+      <configuration name="Unittests for test_login02.ChanDAOLogin" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_login02_ChanDAOLogin_test_loginsuccess - 2018.11.24 at 23h 54m 42s.xml">
+      <configuration name="Unittests for test_login02.ChanDAOLogin.test_loginsuccess" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_login02_ChanDAOLogin - 2018.11.25 at 19h 59m 52s.xml">
+      <configuration name="Unittests for test_login02.ChanDAOLogin" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+ HEAD
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25670242" />
+=======
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3926868" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532943" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="SciView" order="3" />
+>>>>>>> f2d637e8a2d0820b5d8de508616364f12dfb92dc
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/framework/case/login/test_chandao.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/webframework/page/loginPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+ HEAD
+        <state relative-caret-position="199">
+          <caret line="96" column="13" lean-forward="true" selection-start-line="96" selection-start-column="13" selection-end-line="96" selection-end-column="13" />
+=======
+        <state relative-caret-position="306">
+          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+          <folding>
+            <element signature="e#60#103#0" expanded="true" />
+          </folding>
+>>>>>>> f2d637e8a2d0820b5d8de508616364f12dfb92dc
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webframework/case/login/test_login.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+ HEAD
+    <entry file="file://D:/python36/Lib/unittest/suite.py">
+=======
+    <entry file="file://$PROJECT_DIR$/PY/Local/selenium/demo5.py">
+>>>>>>> f2d637e8a2d0820b5d8de508616364f12dfb92dc
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="e#83#138#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webframework/common/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+ HEAD
+        <state relative-caret-position="499">
+          <caret line="27" column="24" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/lib/chandao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="71" column="106" lean-forward="true" selection-start-line="71" selection-start-column="26" selection-end-line="71" selection-end-column="106" />
+=======
+        <state relative-caret-position="468">
+          <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
+          <folding>
+            <element signature="e#60#90#0" expanded="true" />
+          </folding>
+>>>>>>> f2d637e8a2d0820b5d8de508616364f12dfb92dc
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python36/Lib/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1098">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webframework/case/login/test_login02.py">
+      <provider selected="true" editor-type-id="text-editor">
+ HEAD
+        <state relative-caret-position="446">
+          <caret line="25" selection-end-line="30" />
+=======
+        <state relative-caret-position="468">
+          <caret line="29" column="32" lean-forward="true" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
+          <folding>
+            <element signature="e#134#183#0" expanded="true" />
+          </folding>
+>>>>>>> f2d637e8a2d0820b5d8de508616364f12dfb92dc
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webframework/page/loginPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+ HEAD
+        <state relative-caret-position="152">
+          <caret line="14" column="8" selection-start-line="14" selection-end-line="14" selection-end-column="8" />
+=======
+        <state relative-caret-position="306">
+          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+          <folding>
+            <element signature="e#60#103#0" expanded="true" />
+          </folding>
+>>>>>>> f2d637e8a2d0820b5d8de508616364f12dfb92dc
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webframework/case/login/test_login.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/python36/Lib/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+ HEAD
+        <state relative-caret-position="209">
+          <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+=======
+        <state relative-caret-position="864">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
+>>>>>>> f2d637e8a2d0820b5d8de508616364f12dfb92dc
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webframework/case/login/test_login02.py">
+      <provider selected="true" editor-type-id="text-editor">
+ HEAD
+        <state relative-caret-position="190">
+          <caret line="19" column="57" lean-forward="true" selection-start-line="19" selection-start-column="57" selection-end-line="19" selection-end-column="57" />
+=======
+        <state relative-caret-position="296">
+          <caret line="58" column="26" lean-forward="true" selection-start-line="58" selection-start-column="26" selection-end-line="58" selection-end-column="26" />
+          <folding>
+            <element signature="e#134#183#0" expanded="true" />
+          </folding>
+>>>>>>> f2d637e8a2d0820b5d8de508616364f12dfb92dc
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PY/Local/selenium/demo5.py">
+      <provider selected="true" editor-type-id="text-editor">
+ HEAD
+        <state relative-caret-position="266">
+          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+=======
+        <state relative-caret-position="270">
+          <caret line="15" column="26" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="26" />
+>>>>>>> f2d637e8a2d0820b5d8de508616364f12dfb92dc
+          <folding>
+            <element signature="e#83#138#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+ HEAD
+    <entry file="file://$PROJECT_DIR$/framework/case/login/test_changPasswd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="41" column="19" selection-start-line="41" selection-start-column="19" selection-end-line="41" selection-end-column="19" />
+=======
+    <entry file="file://$PROJECT_DIR$/PY/Local/selenium/demo6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webframework/common/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+>>>>>>> f2d637e8a2d0820b5d8de508616364f12dfb92dc
+          <folding>
+            <element signature="e#60#90#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+ HEAD
+    <entry file="file://D:/python36/Lib/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12616">
+          <caret line="677" selection-start-line="677" selection-end-line="677" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webframework/page/loginPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="16" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/typing.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="344" column="8" selection-start-line="344" selection-start-column="8" selection-end-line="344" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PY/deMo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="220" column="14" lean-forward="true" selection-start-line="220" selection-start-column="14" selection-end-line="220" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+=======
+>>>>>>> f2d637e8a2d0820b5d8de508616364f12dfb92dc
+  </component>
+</project>

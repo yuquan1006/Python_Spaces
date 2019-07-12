@@ -1,0 +1,66 @@
+#---
+#  '''
+#yaml语法：
+#  大小写敏感
+#  使用缩进表示层级关系
+#  缩进时不允许使用Tab键，只允许使用空格。
+#  缩进的空格数目不重要，只要相同层级的元素左侧对齐即可
+#  #表示注释，从这个字符一直到行尾，都会被解析器忽略，这个和python的注释一样
+#yaml支持数据结构：
+#  对象：键值对的集合，又称为映射（mapping）/ 哈希（hashes） / 字典（dictionary）
+#  数组：一组按次序排列的值，又称为序列（sequence） / 列表（list）
+#  纯量（scalars）：单个的、不可再分的值。字符串、布尔值、整数、浮点数、Null、时间、日期
+#'''
+#
+## 键值对-字典
+## 一个字典是由一个简单的 键: 值 的形式组成(这个冒号后面必须是一个空格):
+#username: 余泉
+#passwd: 123
+## 字典嵌套 "user1":{"username":"yu","passwd": 123}
+#user1:
+#  username: yu
+#  passwd: 123
+#
+#
+## 序列-列表 [{'admin1': 123456},
+## 列表中的所有成员都开始于相同的缩进级别, 并且使用一个 "- " 作为开头(一个横杠和一个空格):
+## 水果列表
+#- apple
+#- banna
+#- orange
+#
+#
+#
+#
+## 纯量
+#age:22
+#free:10000.00
+#n:True
+#n1:~    # None用~表示
+#age: !!str 123        # 使用两个感叹号，强制转换数据类型。
+
+
+# 一个美味水果的列表 注释使用#
+- Apple
+- Orange
+- Strawberry
+- Mango
+-
+  url : /app/members/login
+  method : post
+  detail : 正常登录
+  data :
+    username : xxxx
+    passwd : xxxx
+  check :
+    - userId
+    - sign
+
+-
+  url : /api/user/login
+  method : post
+  detail : 不传密码
+  data :
+    username : xxxx
+  check :
+    - 必填参数未填
